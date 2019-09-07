@@ -1,0 +1,28 @@
+﻿<Window x:Class="Wpf_Biblioteka_Zavrsni.IzdavanjeKnjiga"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Wpf_Biblioteka_Zavrsni"
+        mc:Ignorable="d"
+        Title="IzdavanjeKnjiga" Height="440" Width="680" Background="#04c582" Loaded="Window_Loaded">
+    <Grid>
+        <TextBox Name="TextBoxPretraziClanove" HorizontalAlignment="Left" Height="23" Margin="27,53,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="140"/>
+        <Button Name="ButtonPretraziClanove" Content="Pretrazi" HorizontalAlignment="Left" Margin="50,90,0,0" VerticalAlignment="Top" Width="80" Background="#545d6a" Foreground="White" Height="25" FontWeight="Bold" Click="ButtonPretraziClanove_Click" IsDefault="True"/>
+        <Label Content="JMBG pretraga" HorizontalAlignment="Left" Margin="46,22,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
+        <TextBox Name="TextBoxImeClana" IsReadOnly="True" HorizontalAlignment="Left" Height="23" Margin="420,50,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="180"/>
+        <TextBox Name="TextBoxKontaktClana" IsReadOnly="True" HorizontalAlignment="Left" Height="23" Margin="420,100,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="180"/>
+        <TextBox Name="TextBoxEmailClana" IsReadOnly="True" HorizontalAlignment="Left" Height="23" Margin="420,150,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="180"/>
+        <TextBox Name="TextBoxNazivKnjige" HorizontalAlignment="Left" Height="23" Margin="420,250,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="180" KeyUp="TextBoxNazivKnjige_KeyUp" KeyDown="TextBoxNazivKnjige_KeyDown"/>
+        <Label Content="Ime clana" HorizontalAlignment="Left" Margin="296,50,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
+        <Label Content="Kontakt clana" HorizontalAlignment="Left" Margin="280,100,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
+        <Label Content="E-mail clana" HorizontalAlignment="Left" Margin="282,150,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
+        <Label Content="Naziv knjige" HorizontalAlignment="Left" Margin="280,250,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
+        <Label Content="Datum iznajmljivanja" HorizontalAlignment="Left" Margin="231,200,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
+        <DatePicker Name="DateTimePicker1" HorizontalAlignment="Left" Margin="420,200,0,0" VerticalAlignment="Top" Width="180"/>
+        <ListBox Name="ListBoxListaKnjiga" Visibility="Hidden" HorizontalAlignment="Left" Height="100" Margin="420,273,0,0" VerticalAlignment="Top" Width="180" KeyDown="ListBoxListaKnjiga_KeyDown" MouseDown="ListBoxListaKnjiga_MouseDown" SelectionChanged="ListBoxListaKnjiga_SelectionChanged"/>
+        <Button Name="ButtonIzdaj"  Content="Izdaj knjigu" HorizontalAlignment="Left" Margin="50,350,0,0" VerticalAlignment="Top" Width="80" Background="#545d6a" Foreground="White" Height="25" FontWeight="Bold" Click="ButtonIzdaj_Click" />
+        <Button Name="ButtonNazad"  Content="Nazad" HorizontalAlignment="Left" Margin="287,348,0,0" VerticalAlignment="Top" Width="80" Background="#545d6a" Foreground="White" Height="25" FontWeight="Bold" Click="ButtonNazad_Click"/>
+
+    </Grid>
+</Window>

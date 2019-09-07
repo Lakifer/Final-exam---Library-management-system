@@ -1,0 +1,111 @@
+C:\Users\lazar\source\repos\Wpf_Biblioteka_Zavrsni\Wpf_Biblioteka_Zavrsni\bin\Debug\Wpf_Biblioteka_Zavrsni.exe.config
+C:\Users\lazar\source\repos\Wpf_Biblioteka_Zavrsni\Wpf_Biblioteka_Zavrsni\bin\Debug\Wpf_Biblioteka_Zavrsni.exe
+C:\Users\lazar\source\repos\Wpf_Biblioteka_Zavrsni\Wpf_Biblioteka_Zavrsni\bin\Debug\Wpf_Biblioteka_Zavrsni.pdb
+C:\Users\lazar\source\repos\Wpf_Biblioteka_Zavrsni\Wpf_Biblioteka_Zavrsni\obj\Debug\Wpf_Biblioteka_Zavrsni.csprojResolveAssemblyReference.cache
+C:\Users\lazar\source\repos\Wpf_Biblioteka_Zavrsni\Wpf_Biblioteka_Zavrsni\obj\Debug\Logovanje.g.cs
+C:\Users\lazar\source\repos\Wpf_Biblioteka_Zavrsni\Wpf_Biblioteka_Zavrsni\obj\Debug\MainWindow.g.cs
+C:\Users\lazar\source\repos\Wpf_Biblioteka_Zavrsni\Wpf_Biblioteka_Zavrsni\obj\Debug\App.g.cs
+C:\Users\lazar\source\repos\Wpf_Biblioteka_Zavrsni\Wpf_Biblioteka_Zavrsni\obj\Debug\Wpf_Biblioteka_Zavrsni_MarkupCompile.cache
+C:\Users\lazar\source\repos\Wpf_Biblioteka_Zavrsni\Wpf_Biblioteka_Zavrsni\obj\Debug\Wpf_Biblioteka_Zavrsni_MarkupCompile.lref
+C:\Users\lazar\source\repos\Wpf_Biblioteka_Zavrsni\Wpf_Biblioteka_Zavrsni\obj\Debug\Logovanje.baml
+C:\Users\lazar\source\repos\Wpf_Biblioteka_Zavrsni\Wpf_Biblioteka_Zavrsni\obj\Debug\MainWindow.baml
+C:\Users\lazar\source\repos\Wpf_Biblioteka_Zavrsni\Wpf_Biblioteka_Zavrsni\obj\Debug\Wpf_Biblioteka_Zavrsni.g.resources
+C:\Users\lazar\source\repos\Wpf_Biblioteka_Zavrsni\Wpf_Biblioteka_Zavrsni\obj\Debug\Wpf_Biblioteka_Zavrsni.Properties.Resources.resources
+C:\Users\lazar\source\repos\Wpf_Biblioteka_Zavrsni\Wpf_Biblioteka_Zavrsni\obj\Debug\Wpf_Biblioteka_Zavrsni.csproj.GenerateResource.Cache
+C:\Users\lazar\source\repos\Wpf_Biblioteka_Zavrsni\Wpf_Biblioteka_Zavrsni\obj\Debug\Wpf_Biblioteka_Zavrsni.csproj.CoreCompileInputs.cache
+C:\Users\lazar\source\repos\Wpf_Biblioteka_Zavrsni\Wpf_Biblioteka_Zavrsni\obj\Debug\Wpf_Biblioteka_Zavrsni.exe
+C:\Users\lazar\source\repos\Wpf_Biblioteka_Zavrsni\Wpf_Biblioteka_Zavrsni\obj\Debug\Wpf_Biblioteka_Zavrsni.pdb
+C:\Users\lazar\source\repos\Wpf_Biblioteka_Zavrsni\Wpf_Biblioteka_Zavrsni\obj\Debug\ListaKnjiga.g.cs
+C:\Users\lazar\source\repos\Wpf_Biblioteka_Zavrsni\Wpf_Biblioteka_Zavrsni\obj\Debug\ListaKnjiga.baml
+C:\Users\lazar\source\repos\Wpf_Biblioteka_Zavrsni\Wpf_Biblioteka_Zavrsni\obj\Debug\IzmenaKnjige.g.cs
+C:\Users\lazar\source\repos\Wpf_Biblioteka_Zavrsni\Wpf_Biblioteka_Zavrsni\obj\Debug\IzmenaKnjige.baml
+C:\Users\lazar\source\repos\Wpf_Biblioteka_Zavrsni\Wpf_Biblioteka_Zavrsni\obj\Debug\NovaKnjiga.g.cs
+C:\Users\lazar\source\repos\Wpf_Biblioteka_Zavrsni\Wpf_Biblioteka_Zavrsni\obj\Debug\NovaKnjiga.baml
+C:\Users\lazar\source\repos\Wpf_Biblioteka_Zavrsni\Wpf_Biblioteka_Zavrsni\obj\Debug\Dodaj_clana.g.cs
+C:\Users\lazar\source\repos\Wpf_Biblioteka_Zavrsni\Wpf_Biblioteka_Zavrsni\obj\Debug\Dodaj_clana.baml
+C:\Users\lazar\source\repos\Wpf_Biblioteka_Zavrsni\Wpf_Biblioteka_Zavrsni\obj\Debug\ListaClanova.g.cs
+C:\Users\lazar\source\repos\Wpf_Biblioteka_Zavrsni\Wpf_Biblioteka_Zavrsni\obj\Debug\ListaClanova.baml
+C:\Users\lazar\source\repos\Wpf_Biblioteka_Zavrsni\Wpf_Biblioteka_Zavrsni\obj\Debug\IzmenaClana.g.cs
+C:\Users\lazar\source\repos\Wpf_Biblioteka_Zavrsni\Wpf_Biblioteka_Zavrsni\obj\Debug\IzmenaClana.baml
+C:\Users\lazar\source\repos\Wpf_Biblioteka_Zavrsni\Wpf_Biblioteka_Zavrsni\obj\Debug\IzdavanjeKnjiga.g.cs
+C:\Users\lazar\source\repos\Wpf_Biblioteka_Zavrsni\Wpf_Biblioteka_Zavrsni\obj\Debug\IzdavanjeKnjiga.baml
+C:\Users\lazar\source\repos\Wpf_Biblioteka_Zavrsni\Wpf_Biblioteka_Zavrsni\obj\Debug\VracanjeKnjige.g.cs
+C:\Users\lazar\source\repos\Wpf_Biblioteka_Zavrsni\Wpf_Biblioteka_Zavrsni\obj\Debug\VracanjeKnjige.baml
+C:\Users\lazar\source\repos\Wpf_Biblioteka_Zavrsni\Wpf_Biblioteka_Zavrsni\obj\Debug\Knjigovodstvo.g.cs
+C:\Users\lazar\source\repos\Wpf_Biblioteka_Zavrsni\Wpf_Biblioteka_Zavrsni\obj\Debug\Knjigovodstvo.baml
+C:\Users\lazar\source\repos\Wpf_Biblioteka_Zavrsni\Wpf_Biblioteka_Zavrsni\obj\Debug\OProgramu.g.cs
+C:\Users\lazar\source\repos\Wpf_Biblioteka_Zavrsni\Wpf_Biblioteka_Zavrsni\obj\Debug\OProgramu.baml
+C:\Users\lazar\Desktop\New folder (2)\Wpf_Biblioteka_Zavrsni\Wpf_Biblioteka_Zavrsni\bin\Debug\Wpf_Biblioteka_Zavrsni.exe.config
+C:\Users\lazar\Desktop\New folder (2)\Wpf_Biblioteka_Zavrsni\Wpf_Biblioteka_Zavrsni\bin\Debug\Wpf_Biblioteka_Zavrsni.exe
+C:\Users\lazar\Desktop\New folder (2)\Wpf_Biblioteka_Zavrsni\Wpf_Biblioteka_Zavrsni\bin\Debug\Wpf_Biblioteka_Zavrsni.pdb
+C:\Users\lazar\Desktop\New folder (2)\Wpf_Biblioteka_Zavrsni\Wpf_Biblioteka_Zavrsni\obj\Debug\Wpf_Biblioteka_Zavrsni.csprojResolveAssemblyReference.cache
+C:\Users\lazar\Desktop\New folder (2)\Wpf_Biblioteka_Zavrsni\Wpf_Biblioteka_Zavrsni\obj\Debug\Dodaj_clana.g.cs
+C:\Users\lazar\Desktop\New folder (2)\Wpf_Biblioteka_Zavrsni\Wpf_Biblioteka_Zavrsni\obj\Debug\IzdavanjeKnjiga.g.cs
+C:\Users\lazar\Desktop\New folder (2)\Wpf_Biblioteka_Zavrsni\Wpf_Biblioteka_Zavrsni\obj\Debug\IzmenaClana.g.cs
+C:\Users\lazar\Desktop\New folder (2)\Wpf_Biblioteka_Zavrsni\Wpf_Biblioteka_Zavrsni\obj\Debug\IzmenaKnjige.g.cs
+C:\Users\lazar\Desktop\New folder (2)\Wpf_Biblioteka_Zavrsni\Wpf_Biblioteka_Zavrsni\obj\Debug\Knjigovodstvo.g.cs
+C:\Users\lazar\Desktop\New folder (2)\Wpf_Biblioteka_Zavrsni\Wpf_Biblioteka_Zavrsni\obj\Debug\ListaClanova.g.cs
+C:\Users\lazar\Desktop\New folder (2)\Wpf_Biblioteka_Zavrsni\Wpf_Biblioteka_Zavrsni\obj\Debug\ListaKnjiga.g.cs
+C:\Users\lazar\Desktop\New folder (2)\Wpf_Biblioteka_Zavrsni\Wpf_Biblioteka_Zavrsni\obj\Debug\Logovanje.g.cs
+C:\Users\lazar\Desktop\New folder (2)\Wpf_Biblioteka_Zavrsni\Wpf_Biblioteka_Zavrsni\obj\Debug\MainWindow.g.cs
+C:\Users\lazar\Desktop\New folder (2)\Wpf_Biblioteka_Zavrsni\Wpf_Biblioteka_Zavrsni\obj\Debug\NovaKnjiga.g.cs
+C:\Users\lazar\Desktop\New folder (2)\Wpf_Biblioteka_Zavrsni\Wpf_Biblioteka_Zavrsni\obj\Debug\OProgramu.g.cs
+C:\Users\lazar\Desktop\New folder (2)\Wpf_Biblioteka_Zavrsni\Wpf_Biblioteka_Zavrsni\obj\Debug\VracanjeKnjige.g.cs
+C:\Users\lazar\Desktop\New folder (2)\Wpf_Biblioteka_Zavrsni\Wpf_Biblioteka_Zavrsni\obj\Debug\App.g.cs
+C:\Users\lazar\Desktop\New folder (2)\Wpf_Biblioteka_Zavrsni\Wpf_Biblioteka_Zavrsni\obj\Debug\Wpf_Biblioteka_Zavrsni_MarkupCompile.cache
+C:\Users\lazar\Desktop\New folder (2)\Wpf_Biblioteka_Zavrsni\Wpf_Biblioteka_Zavrsni\obj\Debug\Wpf_Biblioteka_Zavrsni_MarkupCompile.lref
+C:\Users\lazar\Desktop\New folder (2)\Wpf_Biblioteka_Zavrsni\Wpf_Biblioteka_Zavrsni\obj\Debug\Dodaj_clana.baml
+C:\Users\lazar\Desktop\New folder (2)\Wpf_Biblioteka_Zavrsni\Wpf_Biblioteka_Zavrsni\obj\Debug\IzdavanjeKnjiga.baml
+C:\Users\lazar\Desktop\New folder (2)\Wpf_Biblioteka_Zavrsni\Wpf_Biblioteka_Zavrsni\obj\Debug\IzmenaClana.baml
+C:\Users\lazar\Desktop\New folder (2)\Wpf_Biblioteka_Zavrsni\Wpf_Biblioteka_Zavrsni\obj\Debug\IzmenaKnjige.baml
+C:\Users\lazar\Desktop\New folder (2)\Wpf_Biblioteka_Zavrsni\Wpf_Biblioteka_Zavrsni\obj\Debug\Knjigovodstvo.baml
+C:\Users\lazar\Desktop\New folder (2)\Wpf_Biblioteka_Zavrsni\Wpf_Biblioteka_Zavrsni\obj\Debug\ListaClanova.baml
+C:\Users\lazar\Desktop\New folder (2)\Wpf_Biblioteka_Zavrsni\Wpf_Biblioteka_Zavrsni\obj\Debug\ListaKnjiga.baml
+C:\Users\lazar\Desktop\New folder (2)\Wpf_Biblioteka_Zavrsni\Wpf_Biblioteka_Zavrsni\obj\Debug\Logovanje.baml
+C:\Users\lazar\Desktop\New folder (2)\Wpf_Biblioteka_Zavrsni\Wpf_Biblioteka_Zavrsni\obj\Debug\MainWindow.baml
+C:\Users\lazar\Desktop\New folder (2)\Wpf_Biblioteka_Zavrsni\Wpf_Biblioteka_Zavrsni\obj\Debug\NovaKnjiga.baml
+C:\Users\lazar\Desktop\New folder (2)\Wpf_Biblioteka_Zavrsni\Wpf_Biblioteka_Zavrsni\obj\Debug\OProgramu.baml
+C:\Users\lazar\Desktop\New folder (2)\Wpf_Biblioteka_Zavrsni\Wpf_Biblioteka_Zavrsni\obj\Debug\VracanjeKnjige.baml
+C:\Users\lazar\Desktop\New folder (2)\Wpf_Biblioteka_Zavrsni\Wpf_Biblioteka_Zavrsni\obj\Debug\Wpf_Biblioteka_Zavrsni.g.resources
+C:\Users\lazar\Desktop\New folder (2)\Wpf_Biblioteka_Zavrsni\Wpf_Biblioteka_Zavrsni\obj\Debug\Wpf_Biblioteka_Zavrsni.Properties.Resources.resources
+C:\Users\lazar\Desktop\New folder (2)\Wpf_Biblioteka_Zavrsni\Wpf_Biblioteka_Zavrsni\obj\Debug\Wpf_Biblioteka_Zavrsni.csproj.GenerateResource.Cache
+C:\Users\lazar\Desktop\New folder (2)\Wpf_Biblioteka_Zavrsni\Wpf_Biblioteka_Zavrsni\obj\Debug\Wpf_Biblioteka_Zavrsni.csproj.CoreCompileInputs.cache
+C:\Users\lazar\Desktop\New folder (2)\Wpf_Biblioteka_Zavrsni\Wpf_Biblioteka_Zavrsni\obj\Debug\Wpf_Biblioteka_Zavrsni.exe
+C:\Users\lazar\Desktop\New folder (2)\Wpf_Biblioteka_Zavrsni\Wpf_Biblioteka_Zavrsni\obj\Debug\Wpf_Biblioteka_Zavrsni.pdb
+C:\Users\Zola\Desktop\Zavrsni Rad\Wpf_Biblioteka_Zavrsni\Wpf_Biblioteka_Zavrsni\bin\Debug\Wpf_Biblioteka_Zavrsni.exe.config
+C:\Users\Zola\Desktop\Zavrsni Rad\Wpf_Biblioteka_Zavrsni\Wpf_Biblioteka_Zavrsni\bin\Debug\Wpf_Biblioteka_Zavrsni.exe
+C:\Users\Zola\Desktop\Zavrsni Rad\Wpf_Biblioteka_Zavrsni\Wpf_Biblioteka_Zavrsni\bin\Debug\Wpf_Biblioteka_Zavrsni.pdb
+C:\Users\Zola\Desktop\Zavrsni Rad\Wpf_Biblioteka_Zavrsni\Wpf_Biblioteka_Zavrsni\obj\Debug\Wpf_Biblioteka_Zavrsni.csprojAssemblyReference.cache
+C:\Users\Zola\Desktop\Zavrsni Rad\Wpf_Biblioteka_Zavrsni\Wpf_Biblioteka_Zavrsni\obj\Debug\Dodaj_clana.g.cs
+C:\Users\Zola\Desktop\Zavrsni Rad\Wpf_Biblioteka_Zavrsni\Wpf_Biblioteka_Zavrsni\obj\Debug\IzdavanjeKnjiga.g.cs
+C:\Users\Zola\Desktop\Zavrsni Rad\Wpf_Biblioteka_Zavrsni\Wpf_Biblioteka_Zavrsni\obj\Debug\IzmenaClana.g.cs
+C:\Users\Zola\Desktop\Zavrsni Rad\Wpf_Biblioteka_Zavrsni\Wpf_Biblioteka_Zavrsni\obj\Debug\IzmenaKnjige.g.cs
+C:\Users\Zola\Desktop\Zavrsni Rad\Wpf_Biblioteka_Zavrsni\Wpf_Biblioteka_Zavrsni\obj\Debug\Knjigovodstvo.g.cs
+C:\Users\Zola\Desktop\Zavrsni Rad\Wpf_Biblioteka_Zavrsni\Wpf_Biblioteka_Zavrsni\obj\Debug\ListaClanova.g.cs
+C:\Users\Zola\Desktop\Zavrsni Rad\Wpf_Biblioteka_Zavrsni\Wpf_Biblioteka_Zavrsni\obj\Debug\ListaKnjiga.g.cs
+C:\Users\Zola\Desktop\Zavrsni Rad\Wpf_Biblioteka_Zavrsni\Wpf_Biblioteka_Zavrsni\obj\Debug\Logovanje.g.cs
+C:\Users\Zola\Desktop\Zavrsni Rad\Wpf_Biblioteka_Zavrsni\Wpf_Biblioteka_Zavrsni\obj\Debug\MainWindow.g.cs
+C:\Users\Zola\Desktop\Zavrsni Rad\Wpf_Biblioteka_Zavrsni\Wpf_Biblioteka_Zavrsni\obj\Debug\NovaKnjiga.g.cs
+C:\Users\Zola\Desktop\Zavrsni Rad\Wpf_Biblioteka_Zavrsni\Wpf_Biblioteka_Zavrsni\obj\Debug\OProgramu.g.cs
+C:\Users\Zola\Desktop\Zavrsni Rad\Wpf_Biblioteka_Zavrsni\Wpf_Biblioteka_Zavrsni\obj\Debug\VracanjeKnjige.g.cs
+C:\Users\Zola\Desktop\Zavrsni Rad\Wpf_Biblioteka_Zavrsni\Wpf_Biblioteka_Zavrsni\obj\Debug\App.g.cs
+C:\Users\Zola\Desktop\Zavrsni Rad\Wpf_Biblioteka_Zavrsni\Wpf_Biblioteka_Zavrsni\obj\Debug\Wpf_Biblioteka_Zavrsni_MarkupCompile.cache
+C:\Users\Zola\Desktop\Zavrsni Rad\Wpf_Biblioteka_Zavrsni\Wpf_Biblioteka_Zavrsni\obj\Debug\Wpf_Biblioteka_Zavrsni_MarkupCompile.lref
+C:\Users\Zola\Desktop\Zavrsni Rad\Wpf_Biblioteka_Zavrsni\Wpf_Biblioteka_Zavrsni\obj\Debug\Dodaj_clana.baml
+C:\Users\Zola\Desktop\Zavrsni Rad\Wpf_Biblioteka_Zavrsni\Wpf_Biblioteka_Zavrsni\obj\Debug\IzdavanjeKnjiga.baml
+C:\Users\Zola\Desktop\Zavrsni Rad\Wpf_Biblioteka_Zavrsni\Wpf_Biblioteka_Zavrsni\obj\Debug\IzmenaClana.baml
+C:\Users\Zola\Desktop\Zavrsni Rad\Wpf_Biblioteka_Zavrsni\Wpf_Biblioteka_Zavrsni\obj\Debug\IzmenaKnjige.baml
+C:\Users\Zola\Desktop\Zavrsni Rad\Wpf_Biblioteka_Zavrsni\Wpf_Biblioteka_Zavrsni\obj\Debug\Knjigovodstvo.baml
+C:\Users\Zola\Desktop\Zavrsni Rad\Wpf_Biblioteka_Zavrsni\Wpf_Biblioteka_Zavrsni\obj\Debug\ListaClanova.baml
+C:\Users\Zola\Desktop\Zavrsni Rad\Wpf_Biblioteka_Zavrsni\Wpf_Biblioteka_Zavrsni\obj\Debug\ListaKnjiga.baml
+C:\Users\Zola\Desktop\Zavrsni Rad\Wpf_Biblioteka_Zavrsni\Wpf_Biblioteka_Zavrsni\obj\Debug\Logovanje.baml
+C:\Users\Zola\Desktop\Zavrsni Rad\Wpf_Biblioteka_Zavrsni\Wpf_Biblioteka_Zavrsni\obj\Debug\MainWindow.baml
+C:\Users\Zola\Desktop\Zavrsni Rad\Wpf_Biblioteka_Zavrsni\Wpf_Biblioteka_Zavrsni\obj\Debug\NovaKnjiga.baml
+C:\Users\Zola\Desktop\Zavrsni Rad\Wpf_Biblioteka_Zavrsni\Wpf_Biblioteka_Zavrsni\obj\Debug\OProgramu.baml
+C:\Users\Zola\Desktop\Zavrsni Rad\Wpf_Biblioteka_Zavrsni\Wpf_Biblioteka_Zavrsni\obj\Debug\VracanjeKnjige.baml
+C:\Users\Zola\Desktop\Zavrsni Rad\Wpf_Biblioteka_Zavrsni\Wpf_Biblioteka_Zavrsni\obj\Debug\Wpf_Biblioteka_Zavrsni.g.resources
+C:\Users\Zola\Desktop\Zavrsni Rad\Wpf_Biblioteka_Zavrsni\Wpf_Biblioteka_Zavrsni\obj\Debug\Wpf_Biblioteka_Zavrsni.Properties.Resources.resources
+C:\Users\Zola\Desktop\Zavrsni Rad\Wpf_Biblioteka_Zavrsni\Wpf_Biblioteka_Zavrsni\obj\Debug\Wpf_Biblioteka_Zavrsni.csproj.GenerateResource.cache
+C:\Users\Zola\Desktop\Zavrsni Rad\Wpf_Biblioteka_Zavrsni\Wpf_Biblioteka_Zavrsni\obj\Debug\Wpf_Biblioteka_Zavrsni.csproj.CoreCompileInputs.cache
+C:\Users\Zola\Desktop\Zavrsni Rad\Wpf_Biblioteka_Zavrsni\Wpf_Biblioteka_Zavrsni\obj\Debug\Wpf_Biblioteka_Zavrsni.exe
+C:\Users\Zola\Desktop\Zavrsni Rad\Wpf_Biblioteka_Zavrsni\Wpf_Biblioteka_Zavrsni\obj\Debug\Wpf_Biblioteka_Zavrsni.pdb

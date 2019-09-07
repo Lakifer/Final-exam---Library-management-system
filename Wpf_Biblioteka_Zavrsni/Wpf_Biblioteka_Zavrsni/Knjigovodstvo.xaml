@@ -1,0 +1,42 @@
+﻿<Window x:Class="Wpf_Biblioteka_Zavrsni.Knjigovodstvo"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Wpf_Biblioteka_Zavrsni"
+        mc:Ignorable="d"
+        Title="Knjigovodstvo" Height="500" Width="700" Background="#04c582" Loaded="Window_Loaded">
+    <Grid>
+        <DataGrid Name="DataGridKnjigovodstvo" AutoGenerateColumns="False" IsReadOnly="True" HorizontalAlignment="Left" Height="207" Margin="245,10,0,0" VerticalAlignment="Top" Width="437" SelectionChanged="DataGridKnjigovodstvo_SelectionChanged" SelectionMode="Single">
+            <DataGrid.CellStyle>
+                <Style TargetType="DataGridCell">
+                </Style>
+            </DataGrid.CellStyle>
+            <DataGrid.Columns >
+                <DataGridTextColumn Binding="{Binding ImeKnjige}" Header="Naziv knjige" Width="100" FontSize="10"/>
+                <DataGridTextColumn Binding="{Binding ImeAutora}" Header="Ime autora" Width="110" FontSize="10"/>
+                <DataGridTextColumn Binding="{Binding KolicinaKnjiga}" Header="Kolicina knjiga" Width="100" FontSize="10"/>
+                <DataGridTextColumn Binding="{Binding DostupnostKnjiga}" Header="Dostupne knjige" Width="100" FontSize="10" />
+
+            </DataGrid.Columns>
+        </DataGrid>
+        <DataGrid Name="DataGridKnjigovodstvo2" AutoGenerateColumns="False" HorizontalAlignment="Left" Height="226" Margin="172,233,0,0" VerticalAlignment="Top" Width="510">
+            <DataGrid.CellStyle>
+                <Style TargetType="{x:Type DataGridCell}"/>
+            </DataGrid.CellStyle>
+            <DataGrid.Columns >
+                <DataGridTextColumn Binding="{Binding ImeKnjige}" Header="Naziv knjige" Width="100" FontSize="10"/>
+                <DataGridTextColumn Binding="{Binding ImeClana}" Header="Ime clana" Width="90" FontSize="10"/>
+                <DataGridTextColumn Binding="{Binding DatumIznajmljivanja}" Header="Datum Iznajmljivanja" Width="120" FontSize="10"/>
+                <DataGridTextColumn Binding="{Binding DatumVracanjaKnjige}" Header="Datum Vracanja" Width="100" FontSize="10" />
+                <DataGridTextColumn Binding="{Binding JMBGClana}" Header="JMBG" Width="80" FontSize="10" />
+
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button Name="ButtonNazad" Content="Nazad" FontSize="14" HorizontalAlignment="Left" Margin="46,419,0,0" VerticalAlignment="Top" Width="80" Background="#545d6a" Foreground="White" Height="25" Click="ButtonNazad_Click" />
+        <TextBox Name="TextBoxPretraga" HorizontalAlignment="Left" Height="26" Margin="24,63,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="151" KeyUp="TextBoxPretraga_KeyUp"/>
+        <Label Content="Pretraga knjiga" HorizontalAlignment="Left" Margin="46,29,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="14"/>
+
+
+    </Grid>
+</Window>
